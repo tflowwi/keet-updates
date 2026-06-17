@@ -3,22 +3,13 @@
     <channel>
         <title>Keet</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 17 Jun 2026 14:58:47 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Wed, 17 Jun 2026 18:08:03 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.0.1/Keet-1.0.1.dmg" length="8954007" type="application/octet-stream" sparkle:edSignature="XQFbMvmlfy8H4r7DompX1StkxthGAfxo68kqXc/qUfXOeZkIyvEA2Fz4mnJlPXWXcWsTAVdyFVoBBJsgViogCQ=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Tue, 16 Jun 2026 17:55:17 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.0.0/Keet-1.0.0.dmg" length="8449851" type="application/octet-stream" sparkle:edSignature="e8CbhEA4DahvfsSiFRwtDn3wNxECYP8/sngrAHTDMzlepDeu+ohrPr6mm7hzrPaAjDbgDdfufM2JJs6NY4jxBQ=="/>
+            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.2.0/Keet-1.2.0.dmg" length="7662100" type="application/octet-stream" sparkle:edSignature="+Wa5PTqfMCPXgnSF6Y+1n/elM3NE/Hh3ahNJv2DeKyENGHKAs/k1JAR5xijwdGJ1IU2mNdgc9GtJgQSTPVg3Aw=="/>
         </item>
     </channel>
 </rss>
