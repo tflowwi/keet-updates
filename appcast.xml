@@ -3,13 +3,13 @@
     <channel>
         <title>Keet</title>
         <item>
-            <title>1.5.0</title>
-            <pubDate>Mon, 06 Jul 2026 17:18:50 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <title>1.5.1</title>
+            <pubDate>Tue, 28 Jul 2026 21:16:04 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.5.0/Keet-1.5.0.dmg" length="8451871" type="application/octet-stream" sparkle:edSignature="n+h7lRo3ww+1GLEUrWhxwOsYjdQsLKV5dhp+613ymfnCVMY+qTK6PwdHmurk4Iq7A18vFYDQ/txZV+2DOWvNBw=="/>
+            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.5.1/Keet-1.5.1.dmg" length="8457047" type="application/octet-stream" sparkle:edSignature="zjqsvHGvfr+FQJ5olidK63dlPLKMjf8wkXttZPnPONGBtYVNykMbIGgEbvbR2Qq2bHMKyOa9zpQjduL723dMDg=="/>
         </item>
     </channel>
 </rss>
