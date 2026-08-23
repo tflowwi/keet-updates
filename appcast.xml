@@ -3,13 +3,13 @@
     <channel>
         <title>Keet</title>
         <item>
-            <title>1.8.1</title>
-            <pubDate>Sun, 23 Aug 2026 00:44:16 +0200</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <title>1.8.2</title>
+            <pubDate>Sun, 23 Aug 2026 18:43:53 +0200</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.8.1/Keeti-1.8.1.dmg" length="9371827" type="application/octet-stream" sparkle:edSignature="8GCXhVIyMaZl1zr1ljWK6j0AhKKC3xBj2dXRuFRNKk02NMz9inz0M2ywhg9SAK2c49PxIMS5paclTsuQWQVjBg=="/>
+            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.8.2/Keeti-1.8.2.dmg" length="9349794" type="application/octet-stream" sparkle:edSignature="XiqUFnS40z3wUvj7CN73Tl8L+VwBAEcdc78LXp1KdGDlXcj9qGyqlymOt/poO1hYLUiqG9evztYtX9bKH4cuCQ=="/>
         </item>
     </channel>
 </rss>
