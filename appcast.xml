@@ -3,13 +3,26 @@
     <channel>
         <title>Keet</title>
         <item>
-            <title>1.9.0</title>
-            <pubDate>Wed, 02 Sep 2026 14:50:51 +0200</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <title>2.0.0</title>
+            <pubDate>Sun, 11 Oct 2026 15:59:52 +0200</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v1.9.0/Keeti-1.9.0.dmg" length="9637115" type="application/octet-stream" sparkle:edSignature="8LdtRBy70I2ZmQvEIXn+CHTa4BF9fuy00PWvu1DFpqwgP/jvju0SBII7gXiXxjz+1qfol86uqVlaMzQruSD5Dg=="/>
+            <description sparkle:format="markdown"><![CDATA[## Nouveautés
+
+- **Une icône dans la barre de menus** : les réunions du jour, les dernières notes, le choix du micro, les mises à jour et l'aide. Pratique quand une app en plein écran cache la pastille.
+- **Deux appuis rapides sur la touche control** démarrent ou arrêtent un enregistrement, depuis n'importe quelle app. Le raccourci habituel fonctionne toujours.
+- **Keeti fonctionne sans clé API.** Un compte Keeti (un code par e-mail, ou Google) inclut des comptes rendus chaque mois, et Pro les rend illimités. Si vous dépassez, la réunion est conservée.
+- **La Licence** : pour qui a déjà sa propre clé d'IA, un achat unique, sur un Mac à la fois. Si ce Mac utilise déjà sa clé, rien ne change : il la garde sans rien acheter.
+- **Un accueil refait** : les autorisations, l'agenda, la voix et le compte, chacun dans son écran.
+
+## Corrections
+
+- Un compte rendu relancé pendant que le Mac est verrouillé n'échoue plus.
+- Les envois vers une destination web ne peuvent plus être détournés vers une autre adresse.
+]]></description>
+            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v2.0.0/Keeti-2.0.0.dmg" length="10387454" type="application/octet-stream" sparkle:edSignature="vet2SIa/11jSC1dlZxrjT5Y+4kHKxQnT52w0eiBPo8yhmItsvEustCfesdtBJf2QTLYTf2lEZW8alcmmwMKECA=="/>
         </item>
     </channel>
 </rss>
