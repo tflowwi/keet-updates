@@ -3,26 +3,24 @@
     <channel>
         <title>Keet</title>
         <item>
-            <title>2.0.0</title>
-            <pubDate>Sun, 11 Oct 2026 15:59:52 +0200</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <title>2.1.0</title>
+            <pubDate>Tue, 27 Oct 2026 12:55:33 +0100</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="markdown"><![CDATA[## Nouveautés
 
-- **Une icône dans la barre de menus** : les réunions du jour, les dernières notes, le choix du micro, les mises à jour et l'aide. Pratique quand une app en plein écran cache la pastille.
-- **Deux appuis rapides sur la touche control** démarrent ou arrêtent un enregistrement, depuis n'importe quelle app. Le raccourci habituel fonctionne toujours.
-- **Keeti fonctionne sans clé API.** Un compte Keeti (un code par e-mail, ou Google) inclut des comptes rendus chaque mois, et Pro les rend illimités. Si vous dépassez, la réunion est conservée.
-- **La Licence** : pour qui a déjà sa propre clé d'IA, un achat unique, sur un Mac à la fois. Si ce Mac utilise déjà sa clé, rien ne change : il la garde sans rien acheter.
-- **Un accueil refait** : les autorisations, l'agenda, la voix et le compte, chacun dans son écran.
+- **Les visios** : quand un appel tourne sur le Mac, Keeti entend aussi les autres participants, sans bot ni compte. La première fois, cliquez « Autoriser ». L'audio ne quitte jamais le Mac.
+- **La dictée** : maintenez fn et parlez, le texte s'écrit là où vous tapez, dans n'importe quelle app. Tout est transcrit sur votre Mac. Elle s'allume dans Réglages, Enregistrement.
+- **Des comptes rendus plus justes**, avec un nouveau moteur de transcription, téléchargé à la première réunion (environ 600 Mo). Les réunions en anglais sont enfin bien transcrites.
+- **Vos réunions quittent Documents** : l'audio et les transcriptions restent sur ce Mac, jamais synchronisés. Vos comptes rendus restent dans Documents, comme avant.
 
 ## Corrections
 
-- Un compte rendu relancé pendant que le Mac est verrouillé n'échoue plus.
-- Les envois vers une destination web ne peuvent plus être détournés vers une autre adresse.
+- Keeti ne se fige plus quand Documents est synchronisé par iCloud Drive, et une mise à jour pendant un compte rendu ne bloque plus l'app.
 ]]></description>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v2.0.0/Keeti-2.0.0.dmg" length="10387454" type="application/octet-stream" sparkle:edSignature="vet2SIa/11jSC1dlZxrjT5Y+4kHKxQnT52w0eiBPo8yhmItsvEustCfesdtBJf2QTLYTf2lEZW8alcmmwMKECA=="/>
+            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v2.1.0/Keeti-2.1.0.dmg" length="28430294" type="application/octet-stream" sparkle:edSignature="T70BY27ahA2v7+xIHiMw7GT8rcGpUN4XFfhR1+e3sH6J33EdUYNVpna4MUFtZOvZI09LXlivwfPsQcBukVLnCw=="/>
         </item>
     </channel>
 </rss>
