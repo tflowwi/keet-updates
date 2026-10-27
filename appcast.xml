@@ -3,24 +3,17 @@
     <channel>
         <title>Keet</title>
         <item>
-            <title>2.1.0</title>
-            <pubDate>Tue, 27 Oct 2026 12:55:33 +0100</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <title>2.1.1</title>
+            <pubDate>Tue, 27 Oct 2026 13:46:35 +0100</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Nouveautés
+            <description sparkle:format="markdown"><![CDATA[## Corrections
 
-- **Les visios** : quand un appel tourne sur le Mac, Keeti entend aussi les autres participants, sans bot ni compte. La première fois, cliquez « Autoriser ». L'audio ne quitte jamais le Mac.
-- **La dictée** : maintenez fn et parlez, le texte s'écrit là où vous tapez, dans n'importe quelle app. Tout est transcrit sur votre Mac. Elle s'allume dans Réglages, Enregistrement.
-- **Des comptes rendus plus justes**, avec un nouveau moteur de transcription, téléchargé à la première réunion (environ 600 Mo). Les réunions en anglais sont enfin bien transcrites.
-- **Vos réunions quittent Documents** : l'audio et les transcriptions restent sur ce Mac, jamais synchronisés. Vos comptes rendus restent dans Documents, comme avant.
-
-## Corrections
-
-- Keeti ne se fige plus quand Documents est synchronisé par iCloud Drive, et une mise à jour pendant un compte rendu ne bloque plus l'app.
+- La dictée s'allume d'un seul interrupteur dans les Réglages : s'il manque une autorisation, l'allumer la demande.
 ]]></description>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v2.1.0/Keeti-2.1.0.dmg" length="28430294" type="application/octet-stream" sparkle:edSignature="T70BY27ahA2v7+xIHiMw7GT8rcGpUN4XFfhR1+e3sH6J33EdUYNVpna4MUFtZOvZI09LXlivwfPsQcBukVLnCw=="/>
+            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v2.1.1/Keeti-2.1.1.dmg" length="28428986" type="application/octet-stream" sparkle:edSignature="FmgOjTP/E/ZcwfIG7mrkQNg3hwCyvNBNyOXx4eeqRue4NKeIppdkitmEKPravnt6JKmzofKb3b9O7iYVrWwzDA=="/>
         </item>
     </channel>
 </rss>
