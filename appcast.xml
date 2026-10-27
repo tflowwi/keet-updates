@@ -3,17 +3,28 @@
     <channel>
         <title>Keet</title>
         <item>
-            <title>2.1.1</title>
-            <pubDate>Tue, 27 Oct 2026 13:46:35 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <title>2.1.2</title>
+            <pubDate>Tue, 27 Oct 2026 17:28:12 +0100</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Corrections
+            <description sparkle:format="markdown"><![CDATA[## Nouveautés
 
-- La dictée s'allume d'un seul interrupteur dans les Réglages : s'il manque une autorisation, l'allumer la demande.
+- **Un guide vous présente la dictée et les visios.** Il s'ouvre une fois après la mise à jour,
+  vous fait essayer la dictée et autoriser les visios. Il se ferme quand vous voulez.
+- **La dictée est activée pour tout le monde.** Maintenez fn, parlez, relâchez : le texte s'écrit
+  là où vous tapez. Elle se coupe dans les Réglages.
+- **Les mises à jour s'installent toutes seules.** Quand une nouvelle version est prête, Keeti vous
+  le dit (une notification, une ligne dans l'île) et l'installe en un clic.
+- **Keeti s'ouvre avec votre session**, pour que la dictée soit toujours là. Ça se coupe dans les
+  Réglages.
+
+## Corrections
+
+- La première dictée après l'ouverture de Keeti n'attend plus le chargement du modèle.
 ]]></description>
-            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v2.1.1/Keeti-2.1.1.dmg" length="28428986" type="application/octet-stream" sparkle:edSignature="FmgOjTP/E/ZcwfIG7mrkQNg3hwCyvNBNyOXx4eeqRue4NKeIppdkitmEKPravnt6JKmzofKb3b9O7iYVrWwzDA=="/>
+            <enclosure url="https://github.com/tflowwi/keet-updates/releases/download/v2.1.2/Keeti-2.1.2.dmg" length="28537168" type="application/octet-stream" sparkle:edSignature="L/yrd5Tt2LO4nDo2+PE+yiJChK4V0fm6naShlUQ7UAYb1LMmwTAKBQYe2sw/IR/7Hueuc6AYpVi96kfd+V+DBA=="/>
         </item>
     </channel>
 </rss>
